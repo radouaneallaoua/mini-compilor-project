@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1707939831 source:c:\users\allaoua\desktop\versionfinalefinale\main.cpp
+	<iostream>
+	"fonctionsSyntaxique.h"
+
+1707942295 c:\users\allaoua\desktop\versionfinalefinale\fonctionssyntaxique.h
+	"fonctionsLexical.h"
+	"fonctionsSemantique.h"
+
+1707940018 c:\users\allaoua\desktop\versionfinalefinale\fonctionslexical.h
+	<string>
+	<fstream>
+	<sstream>
+
+1707939673 c:\users\allaoua\desktop\versionfinalefinale\fonctionssemantique.h
+	"variablesGlobales.h"
+
+1707939889 c:\users\allaoua\desktop\versionfinalefinale\variablesglobales.h
+	"tableDeSymboles.h"
+
+1707936934 c:\users\allaoua\desktop\versionfinalefinale\tabledesymboles.h
+	<vector>
+	<string>
+
